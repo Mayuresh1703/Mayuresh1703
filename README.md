@@ -60,14 +60,14 @@ I work across the complete data lifecycle — from cleaning and exploration to m
 
 ## 📂 Featured Projects  
 
-### 📌 Sales Data Analysis  
-> Identified revenue drivers, seasonal trends & top-performing products.
+### 📌 Hospital Inights Dashboard Project 
+ 
+> Hospital Insights Dashboard for analyzing patient trends, operational efficiency, and key healthcare performance metrics.
 
-### 📌 Customer Segmentation  
-> Clustered customers to improve targeting & retention strategies.
+### 📌 Healthcare Analytics Cancer Patient Survey Insights 
+> Healthcare Analytics project analyzing cancer patient survey data to identify patient trends, treatment insights, and care quality outcomes
 
-### 📌 Predictive Modeling  
-> Forecasted outcomes using supervised learning techniques.
+
 
 👉 **Explore my repos below for full notebooks & code!**
 
